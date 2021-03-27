@@ -16,4 +16,5 @@
 
 ![Скрин_марс](https://user-images.githubusercontent.com/68056797/112268272-c34cdc80-8c87-11eb-889a-0d2819dc554c.jpg)
 
-![Скрин_марс_настройки](https://user-images.githubusercontent.com/68056797/112268275-c47e0980-8c87-11eb-80ba-33572f7211a6.jpg)
+![настройки](https://user-images.githubusercontent.com/68056797/112733826-38a00200-8f53-11eb-8594-4b66801a79d0.jpg)
+
